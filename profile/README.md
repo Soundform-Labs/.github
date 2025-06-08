@@ -1,4 +1,5 @@
 <!-- Social Banner -->
+<img src="https://github.com/user-attachments/assets/7af07c23-cd83-4b0d-b019-e77945090c46" alt="soundform-banner" width="640" />
 
 # Soundform Labs
 
@@ -15,7 +16,8 @@ Soundform Labs builds powerful, open-source tools for:
 
 ## Our Philosophy
 
-We believe pro audio deserves open tools, that work beautifully, sync seamlessly, and never get in the way of creativity.
+We believe pro audio deserves open tools, that work beautifully, sync seamlessly,
+and never get in the way of creativity.
 
 ## Contact Us
 
