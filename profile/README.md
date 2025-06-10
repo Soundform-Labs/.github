@@ -25,7 +25,7 @@ Want to collaborate, integrate, or just say hi?
 
 - Web: [soundformlabs.pages.dev](https://soundformlabs.pages.dev)
 - Email: [n3v1010@gmail.com.com](mailto:n3v1010@gmail.com) <!-- hello@soundformlabs.com](mailto:hello@soundformlabs.com) -->
-- Discord: [Soundform Labs]()
-- Instagram: [@soundformlabs]()
+<!--- Discord: [Soundform Labs]()-->
+<!--- Instagram: [@soundformlabs]()-->
 
 _© 2025 Soundform Labs. From Rehearsal to Showtime — Sound, Synced._
