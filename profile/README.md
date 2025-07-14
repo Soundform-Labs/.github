@@ -1,5 +1,5 @@
 <!-- Social Banner -->
-<img src="https://github.com/user-attachments/assets/7af07c23-cd83-4b0d-b019-e77945090c46" alt="soundform-banner" width="640" />
+<img src="https://github.com/user-attachments/assets/7af07c23-cd83-4b0d-b019-e77945090c46" alt="Soundform Labs banner — professional audio tools" width="640" />
 
 # Soundform Labs
 
@@ -27,5 +27,7 @@ Want to collaborate, integrate, or just say hi?
 - Email: [n3v1010@gmail.com.com](mailto:n3v1010@gmail.com) <!-- hello@soundformlabs.com](mailto:hello@soundformlabs.com) -->
 <!--- Discord: [Soundform Labs]()-->
 <!--- Instagram: [@soundformlabs]()-->
+
+Explore our projects on [GitHub](https://github.com/orgs/Soundform-Labs/repositories).
 
 _© 2025 Soundform Labs. From Rehearsal to Showtime — Sound, Synced._
