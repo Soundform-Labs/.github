@@ -24,7 +24,7 @@ and never get in the way of creativity.
 Want to collaborate, integrate, or just say hi?
 
 - Web: [soundformlabs.pages.dev](https://soundformlabs.pages.dev)
-- Email: [n3v1010@gmail.com.com](mailto:n3v1010@gmail.com) <!-- hello@soundformlabs.com](mailto:hello@soundformlabs.com) -->
+- Email: [n3v1010@gmail.com](mailto:n3v1010@gmail.com) <!-- hello@soundformlabs.com](mailto:hello@soundformlabs.com) -->
 <!--- Discord: [Soundform Labs]()-->
 <!--- Instagram: [@soundformlabs]()-->
 
